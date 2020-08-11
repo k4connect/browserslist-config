@@ -1,6 +1,6 @@
 {
   "name": "@k4connect/browserslist-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The shared browserslist configuration for K4Connect ",
   "main": "node.js",
   "browser": "browser.js",

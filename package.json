@@ -1,0 +1,23 @@
+{
+  "name": "@k4connect/browserslist-config",
+  "version": "0.0.1",
+  "description": "The shared browserslist configuration for K4Connect ",
+  "main": "node.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "browserslist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k4connect/browserslist-config.git"
+  },
+  "author": "Robert Fischer and the Cloud Services team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k4connect/browserslist-config/issues"
+  },
+  "homepage": "https://github.com/k4connect/browserslist-config#readme",
+  "devDependencies": {
+    "browserslist": "^4.14.0"
+  }
+}
